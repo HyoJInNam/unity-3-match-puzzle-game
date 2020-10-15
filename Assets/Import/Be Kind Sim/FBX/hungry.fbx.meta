@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: b3717dd4b0bc79b43a49664d8411fb1f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Be Kind Sim
+    100002: //RootNode
+    100004: Rig
+    100006: RigHead
+    100008: RigHeadBone001
+    100010: RigLCalf
+    100012: RigLCollarbone
+    100014: RigLFoot
+    100016: RigLForearm
+    100018: RigLPalm
+    100020: RigLPlatform
+    100022: RigLThigh
+    100024: RigLToe11
+    100026: RigLToe12
+    100028: RigLUpperarm
+    100030: RigNeck
+    100032: RigPelvis
+    100034: RigRCalf
+    100036: RigRCollarbone
+    100038: RigRFoot
+    100040: RigRForearm
+    100042: RigRibcage
+    100044: RigRPalm
+    100046: RigRPlatform
+    100048: RigRThigh
+    100050: RigRToe11
+    100052: RigRToe12
+    100054: RigRUpperarm
+    100056: RigSpine1
+    100058: RigSpine2
+    100060: RigSpine3
+    400000: Be Kind Sim
+    400002: //RootNode
+    400004: Rig
+    400006: RigHead
+    400008: RigHeadBone001
+    400010: RigLCalf
+    400012: RigLCollarbone
+    400014: RigLFoot
+    400016: RigLForearm
+    400018: RigLPalm
+    400020: RigLPlatform
+    400022: RigLThigh
+    400024: RigLToe11
+    400026: RigLToe12
+    400028: RigLUpperarm
+    400030: RigNeck
+    400032: RigPelvis
+    400034: RigRCalf
+    400036: RigRCollarbone
+    400038: RigRFoot
+    400040: RigRForearm
+    400042: RigRibcage
+    400044: RigRPalm
+    400046: RigRPlatform
+    400048: RigRThigh
+    400050: RigRToe11
+    400052: RigRToe12
+    400054: RigRUpperarm
+    400056: RigSpine1
+    400058: RigSpine2
+    400060: RigSpine3
+    2100000: 01 - Default
+    4300000: Be Kind Sim
+    7400000: mixamo.com
+    9500000: //RootNode
+    13700000: Be Kind Sim
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: mixamo.com
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 365
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
