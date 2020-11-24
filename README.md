@@ -1,6 +1,6 @@
 # 3-Match Puzzle Game
 
-<img src = "./ReadMe/1.png" width="30%"><img src = "./ReadMe/2.png" width="30%">
+<img src = "./ReadMe/1.png" width="50%"><img src = "./ReadMe/2.png" width="50%">
 
 ```  
 3-match 응용 : match 된 블록 개수에 따라 아이템 생성, 목표 설정
